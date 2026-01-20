@@ -1,0 +1,9 @@
+{
+    "extention": ["js"],
+    "spec": "*.test.js",
+    "require": "tests/setup.js",
+    "recursive": false,
+    "timeout": 5000,
+    "ui": "bdd",
+    "exit": true
+}
